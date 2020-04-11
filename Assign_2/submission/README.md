@@ -3,7 +3,7 @@ Here we list down the commands and the steps we used for running the map-reduce 
 
 ## Installation
 
-Install Virtual Box into all the 
+Install Virtual Box
 
 ```bash
 sudo apt-get update
