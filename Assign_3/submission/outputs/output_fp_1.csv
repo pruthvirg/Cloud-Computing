@@ -1,0 +1,36 @@
+,support,itemsets
+0,0.17973333333333333,frozenset({'eggs'})
+1,0.0872,frozenset({'burgers'})
+2,0.06253333333333333,frozenset({'turkey'})
+3,0.23826666666666665,frozenset({'mineral water'})
+4,0.132,frozenset({'green tea'})
+5,0.1296,frozenset({'milk'})
+6,0.05853333333333333,frozenset({'whole wheat rice'})
+7,0.0764,frozenset({'low fat yogurt'})
+8,0.17093333333333333,frozenset({'french fries'})
+9,0.05053333333333333,frozenset({'soup'})
+10,0.17413333333333333,frozenset({'spaghetti'})
+11,0.09533333333333334,frozenset({'frozen vegetables'})
+12,0.0804,frozenset({'cookies'})
+13,0.05106666666666667,frozenset({'cooking oil'})
+14,0.0468,frozenset({'champagne'})
+15,0.0424,frozenset({'salmon'})
+16,0.16386666666666666,frozenset({'chocolate'})
+17,0.07133333333333333,frozenset({'shrimp'})
+18,0.06,frozenset({'chicken'})
+19,0.04733333333333333,frozenset({'honey'})
+20,0.0684,frozenset({'tomatoes'})
+21,0.09506666666666666,frozenset({'pancakes'})
+22,0.0524,frozenset({'grated cheese'})
+23,0.04306666666666667,frozenset({'fresh bread'})
+24,0.09826666666666667,frozenset({'ground beef'})
+25,0.07933333333333334,frozenset({'escalope'})
+26,0.0632,frozenset({'frozen smoothie'})
+27,0.049466666666666666,frozenset({'herb & pepper'})
+28,0.08106666666666666,frozenset({'cake'})
+29,0.06573333333333334,frozenset({'olive oil'})
+30,0.05093333333333333,"frozenset({'eggs', 'mineral water'})"
+31,0.048,"frozenset({'milk', 'mineral water'})"
+32,0.05973333333333333,"frozenset({'spaghetti', 'mineral water'})"
+33,0.05266666666666667,"frozenset({'chocolate', 'mineral water'})"
+34,0.040933333333333335,"frozenset({'ground beef', 'mineral water'})"
